@@ -1,1 +1,3 @@
 noname.txt
+
+i leran git 
