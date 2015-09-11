@@ -1,0 +1,25 @@
+PATH=C:\Python27\;
+C:\Python27\Scripts;
+C:\Windows\system32;
+C:\Windows;
+C:\Windows\System32\Wbem;
+C:\Windows\System32\WindowsPowerShell\v1.0\;
+C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;
+C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;
+C:\Program Files\WIDCOMM\Bluetooth Software\;
+C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;
+C:\Program Files\Java\jdk1.7.0_67\bin;
+E:\MyDocuments\linkto\link;
+D:\MinGW32\bin;
+D:\Android\android-sdk\\tools;
+D:\Android\android-sdk\\platform-tools;
+d:\xampp\mysql\bin;
+C:\ProgramFiles\MATLAB7\bin\win32;
+D:\apache-tomcat-7.0.57-windows-x64\apache-tomcat-7.0.57\bin;
+C:\Program Files\TortoiseSVN\bin;
+D:\cygwin\bin;
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin;
+E:\MyDocuments\linkto\SysinternalsSuite;
+C:\Program Files\Git\cmd;
+;
+E:\Users\chen-pc\AppData\Local\Code\bin
